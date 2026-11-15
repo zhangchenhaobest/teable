@@ -1,3 +1,29 @@
+# teable
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+✨ AI Spreadsheet for Business
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向企业的 AI 电子表格。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <h1 align="center">
     <picture>
